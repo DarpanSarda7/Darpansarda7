@@ -1,13 +1,13 @@
 <div>
 <img style="amargin-left: 50%;" src="https://github.com/DarpanSarda7/Darpansarda7/assets/136973982/7397c1eb-002c-4fb5-a51f-e4dcf59961c8">
         <h1 align="center">Hello fellow developers! 👋 I'm Darpan Sarda, </h1>
-        <img align="right" alt="Coding" width="400" src="https://github.com/DarpanSarda7/Darpansarda7/assets/136973982/7be39d70-280f-42f5-aaa1-dcfd644776df">
         <h3 align="center">A dedicated full-stack developer passionate about building robust and user-friendly web applications. I excel in front-end development, crafting dynamic and responsive user interfaces using HTML, CSS, JavaScript, and frameworks like React.js. 💻✨ On the back-end, I have extensive experience with server-side programming using Node.js and Java-Springboot, building APIs and integrating with databases such as MySQL and MongoDB. 🚀
         </h3>
         - 🔭 I’m currently working on *Ecommerce Website*
         <br>
         - 🌱 I’m currently learning *Ai/Ml in python , Spring Boot*
           <br>
+        <img align="right" alt="Coding" width="400" src="https://github.com/DarpanSarda7/Darpansarda7/assets/136973982/7be39d70-280f-42f5-aaa1-dcfd644776df">
           <br>
          <br>
         <h3 align="left">Languages and Tools:</h3>
@@ -19,11 +19,10 @@
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/DarpanSarda7/Darpansarda7/assets/136973982/9e1f392a-2280-4e30-b050-9c9ef32d8c44" alt="mysql" width="40" height="40"/> </a> 
         <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_oracle.jpg" alt="oracle" width="40" height="40"/> </a> 
-        <br>
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9drmv4Uq87c-qNnJ2m_8wuXF8B98En3FvfNDqniY&s" alt="pandas" width="40" height="40"/> </a> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/free-icon/snakes_318-368381.jpg" alt="python" width="40" height="40"/> </a> 
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/DarpanSarda7/Darpansarda7/assets/136973982/e0f8edc7-3491-4e4e-9e66-4f78aa35979b" alt="Mongodb" width="100" height="70"/> </a> 
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/DarpanSarda7/Darpansarda7/assets/136973982/63e0ab1a-60d2-47d6-8308-df10b12eb5da" alt="Express" width="100" height="70"/> </a> 
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/DarpanSarda7/Darpansarda7/assets/136973982/136fd48e-a1d2-434f-8f0e-3f5508a1b452" alt="Mongodb" width="40" height="40"/> </a> 
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/DarpanSarda7/Darpansarda7/assets/136973982/63e0ab1a-60d2-47d6-8308-df10b12eb5da" alt="Express" width="100" height="40"/> </a> 
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
       </p>        
 </div>
