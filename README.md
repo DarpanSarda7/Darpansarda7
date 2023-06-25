@@ -4,9 +4,13 @@
       <h3 align="center">A dedicated full-stack developer passionate about building robust and user-friendly web applications. I excel in front-end development, crafting dynamic and responsive user interfaces using HTML, CSS, JavaScript, and frameworks like React.js. 💻✨ On the back-end, I have extensive experience with server-side programming using Node.js and Java-Springboot, building APIs and integrating with databases such as MySQL and MongoDB. 🚀</h3>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=darpansarda7&label=Profile%20views&color=0e75b6&style=flat" alt="darpansarda7" /> </p>
         <img align="right" alt="Coding" width="400" src="https://github.com/DarpanSarda7/Darpansarda7/assets/136973982/7be39d70-280f-42f5-aaa1-dcfd644776df">
+      <br>
       - 🔭 I’m currently working on **E-commerce website**
+      <br>
       - 🌱 I’m currently learning **Ai/Ml using python**
+      <br>
       - 💬 Ask me about **react**
+      <br>
       - 📫 How to reach me **darpansarda7@gmail.com**
       <h3 align="left">Connect with me:</h3>
       <p align="left">
